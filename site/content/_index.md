@@ -1,5 +1,5 @@
 ---
-title: "Bring your wildest ideas "
+title: Bring your wildest ideas
 subtitle: Together we can make them reality
 image: img/gilles-lambert-pb_lf8vwapu-unsplash.jpg
 blurb:
