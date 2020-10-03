@@ -1,20 +1,26 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Bring your wildest ideas
+subtitle: Together we can make them reality
+image: img/gilles-lambert-pb_lf8vwapu-unsplash.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why POC Factory?
+  text: We build prototypes. It's a quick and cost-effective way to prove your
+    concepts early.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Software
+  text: We come with our own Software Development toolchain. It's faster than the
+    competition, and tried and tested. We can work standalone, or side-by-side
+    with your existing research and development teams.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/karl-pawlowicz-quhuwyngsa0-unsplash.jpg
+    text: POC development. We will quickly produce a working prototype of your idea.
+      It's up to you where you take it from there.
+  - image: img/alexandre-debieve-fo7jilwjotu-unsplash.jpg
+    text: Product evaluation. If you're evaluating new technology, there's a fair
+      chance we've already played with it. If not, we have developed a process
+      for evaluating and battle testing new software.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Hardware
+  text: We use off-the-shelf or specialty hardware to produce a working POC in a
+    cost-effective manner.
 ---
-
