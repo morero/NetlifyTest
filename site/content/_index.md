@@ -5,7 +5,7 @@ image: img/gilles-lambert-pb_lf8vwapu-unsplash.jpg
 blurb:
   heading: Why POC Factory?
   text: We build prototypes. It's a quick and cost-effective way to prove your
-    concepts early.
+    concepts.
 intro:
   heading: Software
   text: We come with our own Software Development toolchain. It's faster than the
