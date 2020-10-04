@@ -12,13 +12,18 @@ intro:
     competition, and it's tried and tested. We can work standalone, or
     side-by-side with your existing teams.
 products:
-  - image: img/karl-pawlowicz-quhuwyngsa0-unsplash.jpg
-    text: POC development. We will quickly produce a working prototype of your idea.
-      It's up to you where you take it from there.
-  - image: img/alexandre-debieve-fo7jilwjotu-unsplash.jpg
-    text: Product evaluation. If you're evaluating new technology, there's a fair
-      chance we've already played with it. If not, we have developed a process
-      for evaluating and battle testing new software.
+  - image: img/box.svg
+    text: Depending on the idea, we can use either cost-effective off-the-shelf
+      hardware, or specialized hardware adapted to the use case.
+  - image: img/disk.svg
+    text: We come with our own Software Development toolchain. It's faster than the
+      competition, and it's tried and tested. We can work standalone, or
+      side-by-side with your existing teams.
+  - image: img/protocol.svg
+    text: We keep updated on the latest and greatest open-source technology. Are you
+      considering a new infrastructure component? We can give you a report on
+      the strength, weaknesses and recommendations, and put you in touch with
+      other companies using it.
 values:
   heading: Hardware
   text: We use off-the-shelf or specialty hardware to produce a working POC in a
