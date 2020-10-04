@@ -7,25 +7,19 @@ blurb:
   text: Building a prototype is a quick and cost-effective way to prove your and
     ideas, find problems early and reduce risks.
 intro:
-  heading: Software
-  text: We come with our own Software Development toolchain. It's faster than the
+  heading: Software & Hardware
+  text: >-
+    We come with our own Software Development toolchain. It's faster than the
     competition, and it's tried and tested. We can work standalone, or
     side-by-side with your existing teams.
-products:
-  - image: img/box.svg
-    text: Depending on the idea, we can use either cost-effective off-the-shelf
-      hardware, or specialized hardware adapted to the use case.
-  - image: img/disk.svg
-    text: We come with our own Software Development toolchain. It's faster than the
-      competition, and it's tried and tested. We can work standalone, or
-      side-by-side with your existing teams.
-  - image: img/protocol.svg
-    text: We keep updated on the latest and greatest open-source technology. Are you
-      considering a new infrastructure component? We can give you a report on
-      the strength, weaknesses and recommendations, and put you in touch with
-      other companies using it.
+
+
+    We combine cost-effective commodity hardware with specialized components.
+products: []
 values:
-  heading: Hardware
-  text: We use off-the-shelf or specialty hardware to produce a working POC in a
-    cost-effective manner.
+  heading: Technology evaluation
+  text: For more than 20 years, we' ve kept up to date with the latest software
+    and technology. Are you considering a new open-source framework? We can
+    provide a detailed report with strength, weaknesses, pitfalls and
+    recommendations.
 ---
