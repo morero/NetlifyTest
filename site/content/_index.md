@@ -4,8 +4,8 @@ subtitle: We can make them reality
 image: img/gilles-lambert-pb_lf8vwapu-unsplash.jpg
 blurb:
   heading: Why prototype?
-  text: Building a prototype before investing is a quick and cost-effective way to
-    prove your and ideas, find problems early and reduce risks.
+  text: Building a prototype is a quick and cost-effective way to prove your and
+    ideas, find problems early and reduce risks.
 intro:
   heading: Software
   text: We come with our own Software Development toolchain. It's faster than the
