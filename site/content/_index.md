@@ -1,16 +1,16 @@
 ---
 title: Bring your wildest ideas
-subtitle: Together we can make them reality
+subtitle: We can make them reality
 image: img/gilles-lambert-pb_lf8vwapu-unsplash.jpg
 blurb:
-  heading: Why POC Factory?
-  text: We build prototypes. It's a quick and cost-effective way to prove your
-    concepts.
+  heading: Why prototype?
+  text: Building a prototype before investing is a quick and cost-effective way to
+    prove your and ideas, find problems early and reduce risks.
 intro:
   heading: Software
   text: We come with our own Software Development toolchain. It's faster than the
-    competition, and tried and tested. We can work standalone, or side-by-side
-    with your existing research and development teams.
+    competition, and it's tried and tested. We can work standalone, or
+    side-by-side with your existing teams.
 products:
   - image: img/karl-pawlowicz-quhuwyngsa0-unsplash.jpg
     text: POC development. We will quickly produce a working prototype of your idea.
